@@ -1,8 +1,9 @@
-## Welcome Nolen's Amazing Website 
+# Nolen's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My favorite things about CS
+- It's very satifying to get good code.
+- When I get really mad about errors that I cant' fix and then I finally fix it.
+- You can do a lot of things with coding and I can't wait to figure out how to do it.
 
 ### Markdown
 
